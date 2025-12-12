@@ -7,7 +7,7 @@ language: "fr"
 
 # Paramètres de l’apparence
 theme: "minimal-mistakes-jekyll" 
-logo: "/assets/images/logo.png" # mettre un logo si tu veux
+logo: img/photo_y
 
 # Navigation
 nav:
