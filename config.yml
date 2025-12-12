@@ -1,0 +1,45 @@
+# Informations générales
+title: "Portfolio de Youssouf OUSMANOU"
+description: "Data Analyst & BI Developer | Passionné par la data, Power BI, Azure AI et Machine Learning"
+baseurl: "" 
+url: "https://ton-username.github.io" # remplacer par ton URL GitHub Pages
+language: "fr"
+
+# Paramètres de l’apparence
+theme: "minimal-mistakes-jekyll" 
+logo: "/assets/images/logo.png" # mettre un logo si tu veux
+
+# Navigation
+nav:
+  - title: "Accueil"
+    url: "/"
+  - title: "Projets"
+    url: "/projets"
+  - title: "À propos"
+    url: "/a-propos"
+  - title: "Contact"
+    url: "/contact"
+
+# Réseaux sociaux
+social:
+  linkedin: "https://www.linkedin.com/in/youssouf-ousmanou/"
+  github: "https://github.com/youssefbecker"
+ 
+  email: "youssefbecker@gmail.com"
+
+# Paramètres pour les projets
+projects:
+  - name: "VideoInsight"
+    description: "Analyse intelligente de vidéos avec Azure AI et OpenAI pour extraire objets, émotions et transcriptions."
+    link: "https://github.com/ton-username/videoinsight"
+  - name: "Prédiction défaillance entreprise"
+    description: "Modèle ML pour prédire la défaillance financière d’une entreprise à partir de données comptables."
+    link: "https://github.com/ton-username/prediction-defaillance"
+  - name: "Nettoyage de chaussures"
+    description: "Application et suivi d’un projet entrepreneurial pour le nettoyage de chaussures."
+    link: "https://github.com/ton-username/nettoyage-chaussures"
+
+# Paramètres supplémentaires
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
