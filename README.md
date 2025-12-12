@@ -39,13 +39,6 @@ Projet universitaire centré sur le Big Data avec traitement, exploration et mod
 
 ---
 
-### 🔹 Autres projets
-
-Je n’ai pas d’informations sur d’autres liens GitHub associés à ton CV.
-➡️ **Si tu me donnes les liens, je complète immédiatement le README.**
-
----
-
 ## 🏢 Expériences clés
 
 ### **Data Analyst – CNSA (2023-2025)**
